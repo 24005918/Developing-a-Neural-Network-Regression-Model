@@ -157,12 +157,13 @@ print(f"Prediction: {prediction}")
 <img width="163" height="132" alt="image" src="https://github.com/user-attachments/assets/ddd75cdb-952f-48ee-808e-fecbbb4cbb47" />
 
 ### OUTPUT
+<img width="658" height="260" alt="image" src="https://github.com/user-attachments/assets/83718982-d8f8-4752-a50d-52c8869ffb55" />
 
 ### Training Loss Vs Iteration Plot
-Include your plot here
+<img width="777" height="644" alt="image" src="https://github.com/user-attachments/assets/ae5535ef-fccf-4cc9-b33a-9cf1d6402f96" />
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="1109" height="47" alt="image" src="https://github.com/user-attachments/assets/152989bf-00a5-451f-a980-03df102bcdda" />
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
